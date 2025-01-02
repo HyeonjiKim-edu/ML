@@ -28,3 +28,7 @@ data/UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt
 data/UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt
 data/UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt
 data/UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt
+data/santander-customer-satisfaction/sample_submission.csv
+data/santander-customer-satisfaction/test.csv
+data/santander-customer-satisfaction/train.csv
+data/santander-customer-satisfaction.zip
